@@ -14,4 +14,5 @@ author_profile: true
 
 City of Superior
 =====
-[**Download the plan here**](https://jordanduffinw.github.io/files/papers/20250210-elections_and_representation_in_american_municipal_government.pdf)
+[**Download the plan here**](https://jordan-at-fiveruleplanning.github.io/files/comp_plans/20260105_Superior_Comprehensive_Plan_No_Ordinance_Number.pdf)
+<object data="/files/comp_plans/20260105_Superior_Comprehensive_Plan_No_Ordinance_Number.pdf" width="1240" height="1754" type='application/pdf'></object>
