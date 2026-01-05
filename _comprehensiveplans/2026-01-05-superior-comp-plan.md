@@ -2,7 +2,7 @@
 title: "City of Superior Comprehensive Development Plan"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2026-01-05-superior-comp-plan
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
