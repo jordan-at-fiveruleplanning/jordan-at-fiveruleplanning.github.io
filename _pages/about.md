@@ -7,7 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-[Here is where we put our landing page info]
+[Here is where we put our landing page info and general description]
+
+Meet the Team
+=====
+
+Bobbi Pettit, AICP
+-----
+
+Bobbi is a Certified ToP (Technology of Participation) facilitator. A native of Merna, Nebraska, Bobbi grew up in a small town, gaining firsthand insight into rural life.
+
+Her profound commitment to supporting rural communities led her to establish FIVE RULE  Rural Planning in January 2018. She holds a Master of Arts in Community \& Regional Planning from the University of Nebraska-Lincoln and has been a member of the American Institute of Certified Planners (AICP) since 2011.
+
+Bobbi has held various positions, including Deputy Master Planner and Assistant Development Services Director for the City of Kearney, as well as Community Planner for the South-Central Economic Development District (SCEDD). During her tenure as Assistant Development Services Director for the City of Kearney, she oversaw the Planning Commission, Development Review Team, and Chief Building Official.
+
+She also pioneered the City of Kearney's Main Street Program as its first Main Street Manager, a program implemented in 2010. Bobbi's diverse experience extends to her role as Deputy Master Planner for the Nebraska Military Department and her service as a Platoon Leader in Iraq for the Nebraska Army National Guard in 2009. With a career in planning that began in 2007, Bobbi has accumulated hands-on expertise and knowledge from planning projects in over 50 second class cities and villages in Nebraska and Kansas.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
