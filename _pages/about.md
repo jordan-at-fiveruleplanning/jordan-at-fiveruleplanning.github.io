@@ -17,11 +17,37 @@ Bobbi Pettit, AICP
 
 Bobbi is a Certified ToP (Technology of Participation) facilitator. A native of Merna, Nebraska, Bobbi grew up in a small town, gaining firsthand insight into rural life.
 
-Her profound commitment to supporting rural communities led her to establish FIVE RULE  Rural Planning in January 2018. She holds a Master of Arts in Community \& Regional Planning from the University of Nebraska-Lincoln and has been a member of the American Institute of Certified Planners (AICP) since 2011.
+Her profound commitment to supporting rural communities led her to establish FIVE RULE  Rural Planning in January 2018. She holds a Master of Arts in Community & Regional Planning from the University of Nebraska-Lincoln and has been a member of the American Institute of Certified Planners (AICP) since 2011.
 
 Bobbi has held various positions, including Deputy Master Planner and Assistant Development Services Director for the City of Kearney, as well as Community Planner for the South-Central Economic Development District (SCEDD). During her tenure as Assistant Development Services Director for the City of Kearney, she oversaw the Planning Commission, Development Review Team, and Chief Building Official.
 
 She also pioneered the City of Kearney's Main Street Program as its first Main Street Manager, a program implemented in 2010. Bobbi's diverse experience extends to her role as Deputy Master Planner for the Nebraska Military Department and her service as a Platoon Leader in Iraq for the Nebraska Army National Guard in 2009. With a career in planning that began in 2007, Bobbi has accumulated hands-on expertise and knowledge from planning projects in over 50 second class cities and villages in Nebraska and Kansas.
+
+Lowell Schroeder
+-----
+Lowell is a native Northeast Nebraska and has spent the past 35 years helping small towns achieve their goals. Lowell has a Bachelor of Science in Agricultural Education from the University of Nebraska-Lincoln. He joined the team in 2021 as a Project Developer and has been a certified CDBG Administrator since 1997. He continues to work with our client communities to see projects funded and completed.
+
+Lowell has worked with strategic planning, grant administration, and grant writing. His career has produced more than 50 funded grant applications. In the past year, Lowell’s most recent awards include: $435,000 to the City of Superior for park improvements, $400,000 to the City of Humphrey for an aquatic center, and $510,000 to the Neligh Chamber for workforce housing.
+
+Originally working together as fellow development district employees, Lowell and Bobbi have been colleagues and friends for over ten years. They enjoy a shared passion for rural development and small-town planning and development.
+
+Bobbi focuses on creating great plans that achieve a community’s vision while always keeping an eye on cost, maintenance, and longevity. Lowell’s focus is on taking those great plans and seeing the vision through by providing strategic planning, grant writing, and project management support.
+
+Doug Christiansen
+-----
+Doug is FIVE RULE’s program manager. He oversees the company's Vacant Property Registry (VPR) program and assists with the project management and administration of the plan implementation programs we offer.
+
+Doug was raised in rural Nebraska and joined FIVE RULE as an intern in January of 2022. In December, Doug graduated from the University of Nebraska Kearney with a Bachelor of Science in Political Science and joined the team full time.
+
+Doug is a certified ToPs (Technology of Participation) Facilitator and his responsibilities at FIVE RULE and impact in Rural Nebraska will continue to grow.
+
+Jordan Duffin Wong, Ph.D
+-----
+Jordan grew up in Kearney, Nebraska and returned to join FIVE RULE in the summer of 2025. Prior to joining FIVE RULE, Jordan held positions with Washington University in St. Louis, the Weidenbaum Center on the Economy, Government, and Public Policy, the St. Louis Zoning Atlas, and the Nebraska Bureau of Business Research.
+
+Jordan completed two Bachelor of Arts Degrees, in Economics and in Political Science, from the University of Nebraska-Lincoln in 2020, with a minor in Mathematics. He completed his Master of Arts in 2023 and Doctor of Philosophy (Ph.D) in 2025, both in Political Science, at Washington University in St. Louis.
+
+Jordan was a contributor on the inaugural Rural Prosperity Nebraska Thriving Index and the St. Louis Dashboard, and has co-authored numerous scholarly articles on local government, published in both peer-reviewed journals and academic conference proceedings. His classroom experience includes teaching and tutoring a variety of Mathematics, Political Science, and Statistics courses.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
