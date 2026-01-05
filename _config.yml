@@ -296,7 +296,7 @@ defaults:
   # _comprehensiveplans
   - scope:
       path : ""
-      type: "comprehensiveplans"
+      type: comprehensiveplans
     values:
       layout: single
       author_profile: true
