@@ -14,4 +14,4 @@ author_profile: true
 
 City of Superior
 =====
-<!-- [**Elections and Representation in American Municipal Administration: Elite Survey Evidence from Five New England States**](/research/2024-elections-and-representation-in-american-local-government) --- with Wayde Z.C. Marsh, Michael Olson, and Andrew Reeves. Forthcoming in *Political Research Quarterly*. -->
+[**Elections and Representation in American Municipal Administration: Elite Survey Evidence from Five New England States**](/comprehensiveplans/2024-elections-and-representation-in-american-local-government) --- with Wayde Z.C. Marsh, Michael Olson, and Andrew Reeves. Forthcoming in *Political Research Quarterly*.
