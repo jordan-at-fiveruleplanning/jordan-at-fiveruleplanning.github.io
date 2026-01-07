@@ -1,7 +1,7 @@
 ---
 title: "Elections and Representation in American Municipal Administration: Elite Survey Evidence from Five New England States"
 collection: research
-permalink: /research/2024-elections-and-representation-in-american-local-government
+permalink: /planningandzoning/cortland
 date: 2025-02-10
 citation: 'Marsh, Wayde Z.C., Olson, Michael P., Reeves, Andrew, and Duffin Wong, Jordan. (2024). &quot;Elections and Representation in American Municipal Administration: Evidence from Five New England States&quot;.' *Political Research Quarterly*, forthcoming.
 ---
