@@ -236,6 +236,9 @@ collections:
   planningandzoning:
     output: true
     permalink: /:collection/:path/
+  comprehensiveplans:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -296,6 +299,15 @@ defaults:
   - scope:
       path: ""
       type: planningandzoning
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _comprehensiveplans
+  - scope:
+      path: ""
+      type: comprehensiveplans
     values:
       layout: single
       author_profile: true
