@@ -1,7 +1,7 @@
 ---
 title: "Cortland"
 excerpt: ""
-collection: portfolio
+collection: planningandzoning
 ---
 
 Village of Cortland
