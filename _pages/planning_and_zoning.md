@@ -16,5 +16,5 @@ Village of Cortland
 =====
 <!-- View the plan online [**here**](https://jordan-at-fiveruleplanning.github.io/files/comp_plans/20260105_superior_comprehensive_plan.html)
  -->
-Download a PDF copy of the zoning ordinance here <!-- [**here**](https://jordan-at-fiveruleplanning.github.io/files/comp_plans/20260105_Superior_Comprehensive_Plan_No_Ordinance_Number.pdf) -->
+Download a PDF copy of the zoning ordinance here [**here**](https://jordan-at-fiveruleplanning.github.io/files/zoning/cortland/20241211_cortland_zoning.pdf)
 <!-- <object data="/files/comp_plans/20260105_Superior_Comprehensive_Plan_No_Ordinance_Number.pdf" width="1240" height="1754" type='application/pdf'></object> -->
