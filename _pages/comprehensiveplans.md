@@ -14,7 +14,7 @@ author_profile: true
 
 City of Superior
 =====
-[**View the plan online here**](https://jordan-at-fiveruleplanning.github.io/files/comp_plans/20260106_superior_comprehensive_plan.html)
+View the plan online [**here**](https://www.dropbox.com/scl/fi/xjjy2mglfcdukypsmh61s/make-comprehensive-plan-doc.html?rlkey=imbhj5wgeu5i1u12xal6s6lbe&st=jxdndtrw&dl=0)
 
-[**Download a PDF the plan here**](https://jordan-at-fiveruleplanning.github.io/files/comp_plans/20260105_Superior_Comprehensive_Plan_No_Ordinance_Number.pdf)
+Download a PDF copy of the plan [**here**](https://jordan-at-fiveruleplanning.github.io/files/comp_plans/20260105_Superior_Comprehensive_Plan_No_Ordinance_Number.pdf)
 <!-- <object data="/files/comp_plans/20260105_Superior_Comprehensive_Plan_No_Ordinance_Number.pdf" width="1240" height="1754" type='application/pdf'></object> -->
