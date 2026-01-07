@@ -11,6 +11,9 @@ main:
   - title: "Comprehensive Plans"
     url: /comprehensiveplans/
 
+  - title: "Planning and Zoning"
+    url: /planningandzoning/
+
   # - title: "Talks"
   #   url: /talks/    
 
