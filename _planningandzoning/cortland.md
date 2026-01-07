@@ -1,7 +1,15 @@
 ---
-title: "Elections and Representation in American Municipal Administration: Elite Survey Evidence from Five New England States"
-permalink: /planningandzoning/cortland
+title: "Cortland"
+excerpt: ""
+collection: portfolio
 ---
-Do selection methods for public officials impact how they represent their constituents? Municipal clerks in the New England states offer an ideal case to examine this question. As key government actors in full-service local governments with minimal overlapping jurisdictions, clerks in these states vary in how they are selected—either through election or appointment. Using an original online and mail survey of municipal clerks across five New England states, we find that elected clerks demonstrate a stronger orientation toward public service and are more responsive to constituent concerns. However, selection methods show little impact on substantive ideological, partisan, or policy representation. These findings highlight the relationship between the mode of selection and representation, offering a foundation for future research on other offices and dimensions of representation.
 
-<!-- <object data="/files/papers/20250210-elections_and_representation_in_american_municipal_government.pdf" width="1240" height="1754" type='application/pdf'></object> -->
+Village of Cortland
+-----
+
+You can view online interactive versions of the Future Land Use and Zoning Maps [**here**](https://jordan-at-fiveruleplanning.github.io/files/zoning/cortland/cortland-online-maps.html)
+
+Download a PDF copy of the Future Land Use Map [**here**](https://jordan-at-fiveruleplanning.github.io/files/zoning/cortland/20251008_Future_Land_Use_Map.pdf) and a PDF copy of the Zoning Map [**here**](https://jordan-at-fiveruleplanning.github.io/files/zoning/cortland/20251008_Zoning_Map.pdf)
+
+Download a PDF copy of the zoning ordinance [**here**](https://jordan-at-fiveruleplanning.github.io/files/zoning/cortland/20241211_cortland_zoning.pdf)
+<!-- <object data="/files/comp_plans/20260105_Superior_Comprehensive_Plan_No_Ordinance_Number.pdf" width="1240" height="1754" type='application/pdf'></object> -->

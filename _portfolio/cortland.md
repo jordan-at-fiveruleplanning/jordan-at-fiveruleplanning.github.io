@@ -1,13 +1,13 @@
 ---
 title: "Cortland"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: ""
 collection: portfolio
 ---
 
 Village of Cortland
 -----
 
-You can view online interactive versions of the Future Land Use and Zoning Maps [**here**]((https://jordan-at-fiveruleplanning.github.io/files/zoning/cortland/cortland-online-maps.html)
+You can view online interactive versions of the Future Land Use and Zoning Maps [**here**](https://jordan-at-fiveruleplanning.github.io/files/zoning/cortland/cortland-online-maps.html)
 
 Download a PDF copy of the Future Land Use Map [**here**](https://jordan-at-fiveruleplanning.github.io/files/zoning/cortland/20251008_Future_Land_Use_Map.pdf) and a PDF copy of the Zoning Map [**here**](https://jordan-at-fiveruleplanning.github.io/files/zoning/cortland/20251008_Zoning_Map.pdf)
 
