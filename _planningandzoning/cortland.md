@@ -2,6 +2,7 @@
 title: "Village of Cortland"
 excerpt: ""
 collection: planningandzoning
+permalink: /planningandzoning/cortland
 ---
 
 You can view online interactive versions of the Future Land Use and Zoning Maps [**here**](https://jordan-at-fiveruleplanning.github.io/files/zoning/cortland/cortland-online-maps.html)
