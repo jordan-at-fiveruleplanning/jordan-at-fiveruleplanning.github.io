@@ -5,6 +5,9 @@ permalink: /planningandzoning/
 author_profile: true
 ---
 
+{% include base_path %}
+---
+
 [**Village of Cortland**](/planningandzoning/cortland)
 
 
