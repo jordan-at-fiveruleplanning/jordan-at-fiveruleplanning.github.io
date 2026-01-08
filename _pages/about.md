@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[Here is where we put our landing page info and general description]
+We’re Five Rule Rural Planning. We strengthen rural communities thru empowerment, education and advocacy
 
 Meet the Team
 =====
